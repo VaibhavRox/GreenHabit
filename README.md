@@ -33,7 +33,7 @@ Environment: Encourages sustainable practices like recycling and litter preventi
 - Sustainability Donation System
 
 ## GitHub Repository Link
-
+https://github.com/VaibhavRox/GreenHabit
 
 ## Team Members & Roles
 - Name 1 – Ashlin Johns (Leader)
